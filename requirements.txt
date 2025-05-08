@@ -1,0 +1,9 @@
+janome>=0.5.0
+unidic-lite>=1.0.8
+pyinstaller>=6.3.0
+altgraph>=0.17.4
+packaging>=25.0
+pefile>=2022.5.30,<2024.8.26
+pyinstaller-hooks-contrib>=2025.4
+setuptools>=42.0.0
+pywin32-ctypes>=0.2.3 

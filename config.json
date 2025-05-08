@@ -1,0 +1,28 @@
+{
+    "user_name": "Your Name",
+    "user_email": "your.email@example.com",
+    "features": {
+        "show_statistics": true,
+        "show_code_blocks": true,
+        "show_links": true,
+        "show_toc": true,
+        "toc_threshold": 5,
+        "show_message_metadata": true,
+        "show_timestamps": true,
+        "show_message_length": true,
+        "show_tags": true,
+        "use_language_tags": true,
+        "use_keyword_tags": true,
+        "use_custom_tags": true
+    },
+    "custom_tags": {
+        "programming": ["code", "function", "class", "variable", "import"],
+        "error": ["error", "exception", "warning", "fail"],
+        "question": ["how", "what", "why", "when", "where", "?"],
+        "solution": ["solution", "answer", "fix", "resolve"],
+        "python": ["python", "pip", "import", "def", "class"],
+        "javascript": ["javascript", "js", "function", "const", "let"],
+        "web": ["html", "css", "browser", "web", "http"],
+        "database": ["sql", "database", "query", "table", "index"]
+    }
+}
